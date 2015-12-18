@@ -1,6 +1,6 @@
 name: pocket
 favicon: null
-layout_spectrum: 0.020061470568180084
+layout_spectrum: 1
 typography_spectrum: 0.4530922088306397
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.1222528766375035
-  lightness: 0.7842245863284916
-  saturation: 0.9071570280939341
-  rhythmicContrast: 0.5755088187288493
+    - '#92449a'
+    - '#ffffff'
+    - '#29c6d2'
+    - '#c2b4cb'
+    - '#c2ef10'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
