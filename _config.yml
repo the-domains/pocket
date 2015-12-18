@@ -1,0 +1,28 @@
+name: pocket
+favicon: null
+layout_spectrum: 0.020061470568180084
+typography_spectrum: 0.4530922088306397
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1222528766375035
+  lightness: 0.7842245863284916
+  saturation: 0.9071570280939341
+  rhythmicContrast: 0.5755088187288493
+purpose: []
